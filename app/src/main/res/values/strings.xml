@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="alarmoffButton">Alarm Off</string>
+    <string name="setalarmButton">Set Alarm</string>
+    <string name="hintUpdateMessage">Did you set the alarm?</string>
+</resources>
